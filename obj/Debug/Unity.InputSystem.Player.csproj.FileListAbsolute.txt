@@ -1,0 +1,2 @@
+/Users/v.soroka/Documents/GitHub/InputSystemSample/obj/Debug/Unity.InputSystem.Player.csproj.AssemblyReference.cache
+/Users/v.soroka/Documents/GitHub/InputSystemSample/obj/Debug/Unity.InputSystem.Player.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+/Users/v.soroka/Documents/GitHub/InputSystemSample/obj/Debug/Unity.TextMeshPro.Player.csproj.AssemblyReference.cache
+/Users/v.soroka/Documents/GitHub/InputSystemSample/obj/Debug/Unity.TextMeshPro.Player.csproj.CoreCompileInputs.cache

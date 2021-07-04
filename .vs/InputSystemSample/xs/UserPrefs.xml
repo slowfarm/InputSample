@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BC6AE17B-6C91-AF10-1687-87DD356DF9FC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InputSystemSample" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="44b4118d-6c50-4275-8817-b2f1e8aa3eaa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/v.soroka/Documents/GitHub/InputSystemSample/Library/PackageCache/.del-89160LOKNbYFfng8b/InputSystem/Plugins/OnScreen/OnScreenStick.cs" relfile="Library/PackageCache/.del-89160LOKNbYFfng8b/InputSystem/Plugins/OnScreen/OnScreenStick.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

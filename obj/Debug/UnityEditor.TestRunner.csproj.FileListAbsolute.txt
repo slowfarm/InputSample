@@ -1,0 +1,2 @@
+/Users/v.soroka/Documents/GitHub/InputSystemSample/obj/Debug/UnityEditor.TestRunner.csproj.AssemblyReference.cache
+/Users/v.soroka/Documents/GitHub/InputSystemSample/obj/Debug/UnityEditor.TestRunner.csproj.CoreCompileInputs.cache
